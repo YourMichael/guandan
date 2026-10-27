@@ -1,0 +1,8 @@
+{
+  "appId": "com.qmeng.guandan",
+  "appName": "Q萌掼蛋",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#1F9C86"
+  }
+}
